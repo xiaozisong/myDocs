@@ -7,7 +7,7 @@ const { docsearchPlugin } = require('@vuepress/plugin-docsearch')
 import { navbarZh, sidebarZh } from './configs'
 
 module.exports = {
-  base: '/',
+  base: '/myDocs/',
   lang: 'zh-CN',
   title: 'xzs',
   description: '前端学习',
