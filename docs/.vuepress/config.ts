@@ -79,7 +79,7 @@ module.exports = {
       },
     }),
     sitemapPlugin({
-      hostname: "https://qiuxc.cn",
+      hostname: "https://xiaozisong.github.io",
     }),
     googleAnalyticsPlugin({
       id: 'G-KEP9J329HR'
