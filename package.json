@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/xiaozisong/myDocs.git"
+    "url": "https://github.com/xiaozisong/xiaozisong.github.io"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/xiaozisong/myDocs/issues"
+    "url": "https://github.com/xiaozisong/xiaozisong.github.io/issues"
   },
-  "homepage": "https://github.com/xiaozisong/myDocs#readme",
+  "homepage": "https://github.com/xiaozisong/xiaozisong.github.io#readme",
   "dependencies": {
     "@vuepress/plugin-docsearch": "^2.0.0-beta.49",
     "@vuepress/plugin-google-analytics": "^2.0.0-beta.49",

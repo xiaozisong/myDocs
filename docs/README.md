@@ -8,7 +8,7 @@ features:
     details: 记录日常工作中的踩坑之路
 actions:
 - text: Go ➡️
-  link: /frontend/javascript/es6+.md
+  link: /frontend/javascript/es6+
   type: primary
 footerHtml: true
 footer: shawn

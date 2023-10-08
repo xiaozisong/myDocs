@@ -31,9 +31,9 @@ module.exports = {
   // 插件
   plugins: [
     docsearchPlugin({
-      appId: '67Q5WACWHY',
-      apiKey: '1ea07c34e0458baa423fbc6100d7cb4f',
-      indexName: 'xzs',
+      appId: 'X81WIK02LW',
+      apiKey: 'c1f93da97a38f22309a344413bd81a5c',
+      indexName: 'sthawn',
       locales: {
         '/zh/': {
           placeholder: '搜索文档',
